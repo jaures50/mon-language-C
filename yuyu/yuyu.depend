@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1293858084 source:c:\users\kattegat\documents\codeblockworkspace\blaise\yuyu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
