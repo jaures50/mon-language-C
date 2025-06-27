@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+// #include <stdlib.h>
 
 int main()
 {
@@ -41,6 +41,6 @@ default:
     break;
     }
 printf("\n A la prochaine...... \n\n\n ");
-printf("  ²² Marie-Flaubert ²²\n\n");
+printf("  Â²Â² Marie-Flaubert Â²Â²\n\n");
     return 0;
  }
