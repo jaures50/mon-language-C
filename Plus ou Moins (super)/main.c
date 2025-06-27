@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+// #include <stdlib.h>
 #include <time.h>
 int main()
    {
@@ -37,7 +37,7 @@ int main()
             }
             while(nombreentrer!= nombremystere);
             printf("\n\n N'oubliez pas mon argent SVP. Merci d'avance \n\n ");
-            printf("\n\n ©÷©÷    Marie-Flaubert ZOGBA    ©÷©÷\n\n");
+            printf("\n\n Â©Ã·Â©Ã·    Marie-Flaubert ZOGBA    Â©Ã·Â©Ã·\n\n");
             break;
         case 2:
              do
@@ -52,7 +52,7 @@ int main()
                     printf("\n Brovo vous avez trouver le nombre mystere\n");
             }while(nombreentrer!= Nombremystere);
             printf("\n\n N'oubliez pas mon argent SVP. Merci d'avance \n\n ");
-            printf("\n\n    ²² Marie-Flaubert ZOGBA ²²    \n\n");
+            printf("\n\n    Â²Â² Marie-Flaubert ZOGBA Â²Â²    \n\n");
             break;
         case 3:
              do
@@ -68,7 +68,7 @@ int main()
             }
             while(nombreentrer!= nombreMystere);
             printf("\n\n N'oubliez pas mon argent SVP. Merci d'avance \n\n ");
-            printf("\n\n ©÷©÷    Marie-Flaubert ZOGBA    ©÷©÷\n\n");
+            printf("\n\n Â©Ã·Â©Ã·    Marie-Flaubert ZOGBA    Â©Ã·Â©Ã·\n\n");
             break;
         case 4:
              do
@@ -84,7 +84,7 @@ int main()
             }
             while(nombreentrer!= nombremystere);
             printf("\n\n N'oubliez pas mon argent SVP. Merci d'avance \n\n ");
-            printf("\n\n ©÷©÷   Marie-Flaubert ZOGBA   ©÷©÷\n\n");
+            printf("\n\n Â©Ã·Â©Ã·   Marie-Flaubert ZOGBA   Â©Ã·Â©Ã·\n\n");
             break;
         default:
             printf("\n Desole vous ne jouer pas \n");
