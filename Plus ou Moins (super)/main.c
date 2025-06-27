@@ -4,7 +4,7 @@
 int main()
    {
 
-    int nombremystere = 0 ;int nombreentrer = 0; int ZO = 0;int GB = 0 ; int Nombremystere = 0; int nombreMystere = 0;
+    int nombremystere = 0, nombreentrer = 0, ZO = 0, GB = 0, Nombremystere = 0, nombreMystere = 0;
     const int Max = 100, Min = 1, Maxi = 1000, Mini = 1, mqx = 10000, mqi = 1;
     srand((time)NULL);
 
